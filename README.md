@@ -1,0 +1,1 @@
+This C++ project simulates a bug tracking system, which allows you to manage information about bugs (issues) in a software project. The system provides functionalities such as adding new bugs, storing bug information to a file, searching bugs by status or severity, and displaying stored bug data from the file.
